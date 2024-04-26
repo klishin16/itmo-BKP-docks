@@ -30,6 +30,17 @@ const sidebars: SidebarsConfig = {
         'results/components-update',
       ],
     },
+    {
+      type: 'category',
+      label: 'Графики',
+      link: {
+        "type": "generated-index",
+        "description": "В данном разделе содержатся графики с результатами экспериментов по исследованию оптимизации производительности рендеринга компонентов"
+      },
+      items: [
+        'charts/components-creation-charts'
+      ],
+    },
   ],
 };
 
