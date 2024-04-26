@@ -77,13 +77,12 @@ const config: Config = {
         //   position: 'right',
         // },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: 'docs/category/результаты-эксперимента',
           label: 'Результаты эксперимента', 
           position: 'left'
         },
         {
-          to: '/charts',
+          to: 'docs/category/графики',
           label: 'Графики', 
           position: 'left'
         }
