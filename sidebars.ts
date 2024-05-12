@@ -45,7 +45,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'doc',
       id: 'recommendations',
-      label: 'Recommendations'
+      label: 'Рекомендации'
     }
     // {
     //   type: 'category',
